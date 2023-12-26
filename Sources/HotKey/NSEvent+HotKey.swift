@@ -5,7 +5,7 @@
 //  Created by yuki on 2021/06/28.
 //
 
-import Cocoa
+import AppKit
 
 extension NSEvent {
     public var hotKey: HotKey {

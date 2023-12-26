@@ -6,7 +6,7 @@
 //
 
 import Carbon
-import Cocoa
+import AppKit
 
 public struct HotKey: Hashable {
     public let key: Key?
